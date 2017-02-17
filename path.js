@@ -1,5 +1,13 @@
 //Your code below
-
+function buildPath(p,n){
+  let pat = []
+  for(let a=0;a>0;a++){
+    else{
+      if(r<=p)
+      return false
+    }
+  }
+}
 
 
 
